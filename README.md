@@ -1,5 +1,5 @@
 # 💫 About Me:
--Currently studying the career of multiplatform software development.<br>-20 years.<br>-I like to exercise.<br>
+-Currently studying the career of multiplatform software development.
 
 
 ## 🌐 Socials:
